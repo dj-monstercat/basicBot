@@ -105,6 +105,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    javascript:(function(){$.getScript('https://rawgit.com/dj-monstercat/basicBot/master/extension.js.js');})();
+    javascript:(function(){$.getScript('https://rawgit.com/dj-monstercat/basicBot/master/extension.js');})();
 
 }).call(this);
