@@ -55,7 +55,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "Flavorz bot",
         language: "english",
-        chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
+        chatLink: "https://rawgit.com/dj-monstercat/Flavorz-bar/master/en.json",
         maximumAfk: 120,
         afkRemoval: true,
         maximumDc: 60,
