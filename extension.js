@@ -53,11 +53,11 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "Flavorz bot",
+        botName: "Checking-Bot",
         language: "english",
         chatLink: "https://rawgit.com/dj-monstercat/basicBot/master/en.json",
         maximumAfk: 120,
-        afkRemoval: true,
+        afkRemoval: false,
         maximumDc: 60,
         bouncerPlus: true,
         lockdownEnabled: false,
@@ -66,7 +66,7 @@
         cycleGuard: true,
         maximumCycletime: 10,
         timeGuard: true,
-        maximumSongLength: 10,
+        maximumSongLength: 8,
         autodisable: true,
         commandCooldown: 30,
         usercommandsEnabled: true,
